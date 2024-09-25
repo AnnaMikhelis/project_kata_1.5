@@ -134,7 +134,7 @@ html {
     }
     
     .show-arrow {
-        background-image: url('image\expand.svg');
+        background-image: url('image/expand.svg');
         width: 24px;
         height: 24px;
         align-self: center;
