@@ -50,7 +50,7 @@ html {
 }
 
 .brands-list__brand::after {
-    content: url(image\arrow.svg);
+    content: url(\image\arrow.svg);
 }
 
 
@@ -138,7 +138,7 @@ html {
     }
     
     .show-arrow {
-        background-image: url('image\expand.svg');
+        background-image: url('\image\expand.svg');
         width: 24px;
         height: 24px;
         align-self: center;
