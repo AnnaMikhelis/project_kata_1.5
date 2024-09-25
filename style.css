@@ -46,7 +46,7 @@ html {
 }
 
 .brands-list__brand::after {
-    content: url(..\arrow.svg);
+    content: url(..\..\image\arrow.svg);
 }
 
 
