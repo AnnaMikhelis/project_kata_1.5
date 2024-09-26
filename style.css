@@ -45,10 +45,10 @@ html {
 
 }
 
-.brands-list__brand::after {
+/*.brands-list__brand::after {
     content: url(..\..\image\arrow.svg);
 }
-
+*/
 
 .btn-more {
     visibility: hidden;
